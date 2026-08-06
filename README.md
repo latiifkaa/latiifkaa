@@ -1,16 +1,125 @@
-## Hi there 👋
+# Hi, I'm Latifa Abdraimova 👋
 
-<!--
-**latiifkaa/latiifkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Break Through Tech AI Fellow | Cyber Investigations Intern
 
-Here are some ideas to get you started:
+Aspiring cybersecurity professional passionate about digital forensics, artificial intelligence, and machine learning. I enjoy solving real-world problems through technology while building secure and data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+
+- 🎓 BBA in Computer Information Systems (Cybersecurity), Baruch College
+
+- 🤖 Break Through Tech AI Fellow
+
+- 🔍 Cyber Investigations Intern at the NYC Department of Investigation
+
+- 🌱 Currently learning Machine Learning, AI, Digital Forensics, and Data Analytics
+
+- 🎯 Interested in Cybersecurity, AI Security, Threat Intelligence, and Machine Learning
+
+### Languages
+
+- Python
+
+- SQL
+
+- Java
+
+- Excel
+
+### Machine Learning & Data Science
+
+- Pandas
+
+- NumPy
+
+- Scikit-Learn
+
+- Jupyter Notebook
+
+- Data Cleaning
+
+- Exploratory Data Analysis
+
+- Model Evaluation
+
+### Cybersecurity
+
+- Digital Forensics
+
+- Incident Response
+
+- NIST Cybersecurity Framework
+
+- Risk Management
+
+- Identity & Access Management
+
+- Log Analysis
+
+### Tools
+
+- Git & GitHub
+
+- Magnet Axiom
+
+- Cellebrite Premium
+
+- Accurint
+
+## 🚀 Featured Projects
+
+### 🤖 Machine Learning Capstone
+
+Built an end-to-end supervised machine learning model through the Break Through Tech AI Program.
+
+**Skills**
+
+- Python
+
+- Pandas
+
+- NumPy
+
+- Scikit-Learn
+
+- Model Evaluation
+
+🔗 GitHub Repository *(coming soon)*
+
+---
+
+### 🔐 CyberArk 3-Year Cybersecurity Strategy
+
+Developed a three-year Privileged Access Management strategy while analyzing cybersecurity risks and defining measurable KPIs.
+
+**Skills**
+
+- Cybersecurity
+
+- Risk Management
+
+- NIST CSF
+
+- Executive Presentation
+
+🔗 GitHub Repository *(coming soon)*
+
+## 🏆 Experience & Leadership
+
+- Break Through Tech AI Fellow
+
+- Cyber Investigations Intern — NYC Department of Investigation
+
+- Director of Marketing — Baruch ISACA Cybersecurity Club
+
+- Google Cybersecurity Certificate
+
+- National Honor Society (ARISTA & ARCHON)
+
+## 📫 Connect With Me
+
+📧 latifaraimova@gmail.com
+
+💼 LinkedIn:
+
+https://linkedin.com/in/latifaabd
