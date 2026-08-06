@@ -50,7 +50,7 @@ Built an end-to-end supervised machine learning model through the Break Through 
 - NumPy
 - Scikit-Learn
 - Model Evaluation
-🔗 GitHub Repository *(coming soon)*
+🔗 GitHub Repository (https://github.com/latiifkaa/Machine-Learning-Capstone)
 
 
 ### 🔐 CyberArk 3-Year Cybersecurity Strategy
@@ -60,7 +60,7 @@ Developed a three-year Privileged Access Management strategy while analyzing cyb
 - Risk Management
 - NIST CSF
 - Executive Presentation
-🔗 GitHub Repository *(coming soon)*
+🔗 GitHub Repository (https://github.com/latiifkaa/cyberark-3-year-cybersecurity-strategy)
 
 ---
 
