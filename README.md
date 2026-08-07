@@ -72,6 +72,21 @@ Developed a three-year Privileged Access Management strategy while analyzing cyb
 - National Honor Society (ARISTA & ARCHON)
 
 ---
+## 📊 Profile Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=latiifkaa)
+
+## 🛠 Technical Skills
+
+![Python](https://img.shields.io/badge/Python-Beginner--Intermediate-blue)
+
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-lightgrey)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Risk%20%26%20Forensics-red)
+
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 
 ## 📫 Connect With Me
 
